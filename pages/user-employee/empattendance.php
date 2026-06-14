@@ -39,8 +39,8 @@ $attendance = $stmt->get_result();
 <body>
     <nav class="top-navbar">
         <div class="logo">
-            <span class="logo-icon"><i class="ph-fill ph-clock"></i></span>
-            <span class="logo-text">TimeTracker</span>
+            <span class="logo-icon"><i class="ph-fill ph-person-simple-walk"></i></span>
+            <span class="logo-text">Vizitor</span>
         </div>
         <ul class="nav-links">
             <li><span class="active">Employee Portal</span></li>
